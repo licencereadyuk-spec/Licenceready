@@ -1,0 +1,29 @@
+{
+  "name": "LicenceReady",
+  "short_name": "LicenceReady",
+  "description": "The complete UK driving theory test prep app. 700+ practice questions, AI tutor, full revision guides and timed mock tests. Pass first time!",
+  "id": "https://licenceready.org",
+  "start_url": "https://licenceready.org",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f6f2",
+  "theme_color": "#2a5cff",
+  "dir": "ltr",
+  "lang": "en-GB",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "https://licenceready.org/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://licenceready.org/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
